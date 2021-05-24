@@ -23,11 +23,17 @@
       },
       {
         "title": "Step 5",
-        "text": "step5.md"
+        "courseData": "step5-background.sh",
+        "code": "step5-foreground.sh",
+        "text": "step5.md",
+        "credits": "https://katacoda.com/scenario-examples/scenarios/run-commands-automatically"
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md" ,
+      "courseData": "background.sh",
+      "code": "foreground.sh"
+      "credits": "https://github.com/aakala/katacoda-scenarios-1/tree/master/oci-course/oci-lab-preparation"
     },
     "finish": {
       "text": "finish.md"
