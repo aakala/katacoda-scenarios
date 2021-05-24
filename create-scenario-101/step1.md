@@ -3,7 +3,7 @@ Task
 
 Clone our example repository that contains the set of documentation with the following command:
 
-git clone https://github.com/katacoda/scenario-examples.git katacoda-scenario-examples{{execute}}
+`git clone https://github.com/katacoda/scenario-examples.git katacoda-scenario-examples` {{execute}}
 
 Within the repository, you will see a set of examples of implementing various Katacoda functionality.
 
