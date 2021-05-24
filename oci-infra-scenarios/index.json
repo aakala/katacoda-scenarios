@@ -25,9 +25,7 @@
         "title": "Step 5",
         "courseData": "step5-background.sh",
         "code": "step5-foreground.sh",
-        "text": "step5.md",
-        "credits": "https://katacoda.com/scenario-examples/scenarios/run-commands-automatically"
-      }
+        "text": "step5.md"      }
     ],
     "intro": {
       "text": "intro.md" ,
