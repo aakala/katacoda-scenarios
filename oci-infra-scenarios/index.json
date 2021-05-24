@@ -23,8 +23,6 @@
       },
       {
         "title": "Step 5",
-        "courseData": "step5-background.sh",
-        "code": "step5-foreground.sh",
         "text": "step5.md"      }
     ],
     "intro": {
